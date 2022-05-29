@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Power Tools",
+        "unitPerPrice":50,
+        "availableQuantity":1000,
+        "minOrderQuantity": 50,
+        "suppliername":"A.Rahman",
+        "email": "abc@dbc.com",
+        "details": " Trade-in values will vary based on the condition, year, and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least 18 years old to be eligible to trade in for credit.",
+        "img": "https://i.ibb.co/bsnqW8k/tool-1.jpg"
+    },
+    {
+        "name": "Power Tools",
+        "unitPerPrice":50,
+        "availableQuantity":1000,
+        "minOrderQuantity": 50,
+        "suppliername":"A.Rahman",
+        "email": "abc@dbc.com",
+        "details": "Trade-in values will vary based on the condition, year, and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least 18 years old to be eligible to trade in for credit.",
+        "img": "https://i.ibb.co/ySrH6HW/tool-2.jpg"
+    },
+    {
+        "name": "Power Tools",
+        "unitPerPrice":50,
+        "availableQuantity":1000,
+        "minOrderQuantity": 50,
+        "suppliername":"A.Rahman",
+        "email": "abc@dbc.com",
+        "details": "Trade-in values will vary based on the condition, year, and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least 18 years old to be eligible to trade in for credit.",
+        "img": "https://i.ibb.co/1XQfZN0/tool-3.jpg"
+    },
+    {
+        "name": "Power Tools",
+        "unitPerPrice":50,
+        "availableQuantity":1000,
+        "minOrderQuantity": 50,
+        "suppliername":"A.Rahman",
+        "email": "abc@dbc.com",
+        "details": "Trade-in values will vary based on the condition, year, and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least 18 years old to be eligible to trade in for credit.",
+        "img": " https://i.ibb.co/SQqwzD3/tool-4.jpg"
+    },
+    {
+        "name": "Power Tools",
+        "unitPerPrice":50,
+        "availableQuantity":1000,
+        "minOrderQuantity": 50,
+        "suppliername":"A.Rahman",
+        "email": "abc@dbc.com",
+        "details": " Trade-in values will vary based on the condition, year, and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least 18 years old to be eligible to trade in for credit.",
+        "img": "https://i.ibb.co/ySrH6HW/tool-2.jpg"
+    },
+    {
+        "name": "Power Tools",
+        "unitPerPrice":50,
+        "availableQuantity":1000,
+        "minOrderQuantity": 50,
+        "suppliername":"A.Rahman",
+        "email": "abc@dbc.com",
+        "details": "Trade-in values will vary based on the condition, year, and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least 18 years old to be eligible to trade in for credit.",
+        "img": "https://i.ibb.co/SQqwzD3/tool-4.jpg"
+    }
+]
